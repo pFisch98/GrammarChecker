@@ -7,5 +7,5 @@ python grammar_check.py file 'word'
 
 In file ist die geforderte Grammatik zu definieren.
 Einschränkungen hierbei stellen dar:
-  Kontextfreiheit; Namen der Knoten: '0'...'n' (wie in Beispieldatei veranschaulicht); keine nichtleere-Schnittmenge der Knoten-Namen und der 
+  Kontextfreiheit; Namen der Knoten: 0...n lückenlos (wie in Beispieldatei veranschaulicht); keine nichtleere-Schnittmenge der Knoten-Namen und der 
   Zeichenmenge.
