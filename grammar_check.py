@@ -53,9 +53,6 @@ def init():
 
     return grammar, num_of_nodes, word
 
-def clean():
-    pass
-
 def check_word(grammar, word, cur_state, num_of_nodes):
     '''assume: grammar is already aligned in respect to syntactic standards of clean'''
 
